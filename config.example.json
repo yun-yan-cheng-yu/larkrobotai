@@ -1,0 +1,15 @@
+{
+  "feishu": {
+    "appId": "cli_xxxxxxxx",
+    "appSecret": "你的应用 Secret"
+  },
+  "llm": {
+    "baseUrl": "https://open.bigmodel.cn/api/paas/v4",
+    "apiKey": "你的 API Key",
+    "model": "glm-4.7-flash",
+    "fallbackModels": [
+      "glm-4-flash-250414"
+    ],
+    "fallbackApiKey": ""
+  }
+}
